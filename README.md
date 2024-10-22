@@ -1,6 +1,6 @@
 # Chandra Texttiles 
 
-<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/a.jpg">
+<img src="https://github.com/DSAN0/chandra-texttiles/blob/main/src/assets/a.jpg">
 
 ## Objective
 
@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nipun-priyanjith/chandra-texttiles.git
+   git clone https://github.com/DSAN0/chandra-texttiles.git
    ```
 
 2. Navigate to the project directory:
@@ -68,7 +68,7 @@ To set up the project locally, follow these steps:
      ```
 <br><br>
 
-<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/c.png">
+<img src="https://github.com/DSAN0/chandra-texttiles/blob/main/src/assets/c.png">
 
 
 <br><br><div>
